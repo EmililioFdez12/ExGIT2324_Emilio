@@ -14,6 +14,6 @@ En la página web del [IES Pablo Picasso](https://fpiespablopicasso.es) podrás 
 
 Si quieres contribuir al desarrollo de la web. puedes clonar el repositorio con el comando
 ```
-git clone https:/,rOthub.eo•/EnriquePIc•sso,•E"ZT2324_Enrique.git
+git clone https://github.com/EmililioFdez12/ExGIT2324_Emilio.git
 ```
 
